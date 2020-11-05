@@ -1,0 +1,3 @@
+Edad: 35
+Experiencia: 5 años en programación
+Como me enteré: Por redes sociales
